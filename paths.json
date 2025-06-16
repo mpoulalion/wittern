@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/wittern/:/",
-    "/content/wittern/configuration:/.helix/config.json"
+    "/content/wittern-edge/:/",
+    "/content/wittern-edge/configuration:/.helix/config.json"
   ]
 }
